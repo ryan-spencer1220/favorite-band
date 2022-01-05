@@ -5,9 +5,20 @@
 h1,
 h2 {
   text-align: center;
+  font-family: "Montserrat", sans-serif;
 }
 
 .band-photo {
+  float: right;
+  padding: 3px;
+  border: 6px black;
+  padding: 10px;
+  border: solid black;
+  box-sizing: border-box;
+  margin-right: 5%;
+}
+
+.band-photo2 {
   float: right;
   padding: 3px;
   border: 6px black;
@@ -27,6 +38,7 @@ h2 {
   box-sizing: border-box;
   border-width: 10px;
   border: solid black;
+  font-family: "Montserrat", sans-serif;
 }
 
 .centered-image {
@@ -39,6 +51,7 @@ h2 {
 p {
   padding-left: 25%;
   padding-right: 25%;
+  font-family: "Courier New", Courier, monospace;
 }
 
 .years {
