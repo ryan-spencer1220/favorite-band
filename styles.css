@@ -1,4 +1,9 @@
-h1 {
+* {
+  background-color: rgb(166, 227, 240);
+}
+
+h1,
+h2 {
   text-align: center;
 }
 
@@ -18,7 +23,6 @@ h1 {
   margin: 2px;
   box-sizing: border-box;
   padding: 10px;
-  background-color: aqua;
   float: left;
   box-sizing: border-box;
   border-width: 10px;
@@ -35,4 +39,8 @@ h1 {
 p {
   padding-left: 25%;
   padding-right: 25%;
+}
+
+.years {
+  font-weight: bolder;
 }
