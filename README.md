@@ -15,11 +15,9 @@ _This exercise was completed to illustrate the importance of the box model by al
 
 ## Setup/Installation Requirements
 
-- _This is a great place_
-- _to list setup instructions_
-- _in a simple_
-- _easy-to-understand_
-- _format_
+- _Clone this repository to your desktop._
+- _Navigate to the top level of the directory._
+- _Open cupcake-shop/index.html_
 
 ## Known Bugs
 
